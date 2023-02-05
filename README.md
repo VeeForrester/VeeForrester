@@ -1,4 +1,10 @@
-### Hi there 👋
+# Valerie Forrester
+
+Always keen to expand my toolkit, I am currently enjoying the challenge of getting to grips with data exploration using Python through a Data Science bootcamp with HyperionDev. As I continue on my Python journey, I will be sharing some of my projects here.
+
+My varied professional background has led me to finding what really makes me tick: trying to solve the puzzle of how we most meaningfully see and connect with the social world around us.
+
+I've settled into being an experienced social researcher, knowledgeable in both qualitative and quantitative methods and enthusiastic to bring my knowledge to help others reach a better understanding of the things that matter to them. 
 
 <!--
 **VeeForrester/VeeForrester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
